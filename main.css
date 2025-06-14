@@ -1,4 +1,8 @@
 body{
   background-color: black;
   background-image: url("https://woa.jeoftimothytoledo.online/forest.png");
+  background-repeat: no-repeat;
+  object-position: center;
+  object-fit: fill;
+  overflow: none;
 }
